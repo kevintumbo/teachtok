@@ -15,7 +15,7 @@ In scope:
 
 ![Alt text](teac.png) ![Alt text](teachtok-right.png)
 
-##Installation
+## Installation
  > - Clone repo.
  > - npm install
  > - npm run android  (to run on android)
